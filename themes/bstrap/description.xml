@@ -1,0 +1,16 @@
+<!--
+===============================================================================
+phpMyProfiler Theme "Bstrap"
+Release:    0.4.002
+Date:       2014-02-09
+Author:     George Lewe (george@lewe.com)
+Copyright:  (c) 2014. All rights reserved.
+===============================================================================
+-->
+<?xml version="1.0" encoding="utf-8" ?> 
+<theme>
+   <name>Bstrap</name>
+   <version>0.4.002</version>
+   <author>George Lewe</author>
+   <pmp_version>1.1</pmp_version>
+</theme>
